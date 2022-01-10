@@ -21,10 +21,10 @@
 </div>
 
  ##
-
+<br/>
 <!--START_SECTION:waka-->
 <div align="center">
-
+<br/>
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=caroolt.caroolt&label=Visitors&labelColor=7F3ACE&logo=GitHub&logoColor=000000&color=6A0DAD&style=for-the-badge)
   
 ![Snake animation](https://github.com/caroolt/caroolt/blob/output/github-contribution-grid-snake.svg)
