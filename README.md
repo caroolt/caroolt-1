@@ -1,4 +1,4 @@
-### Olá! eu sou o Carol Teixeira, desenvolvedora fullstack.
+### Olá! eu sou a Carol Teixeira, desenvolvedora fullstack.
 <div align="center">
   <a href="https://github.com/caroolt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caroolt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -26,10 +26,10 @@
 
 </div>
 
-## 📫 Se você tem interesse em interagir comigo, fique à vontade! 
-## Email: carolinatc1405@gmail.com
+### 📫 Se você tem interesse em interagir comigo, fique à vontade! 
+# Email: carolinatc1405@gmail.com
 
-## Linkedin: https://www.linkedin.com/in/carolinateixeiracoelho/
+# Linkedin: https://www.linkedin.com/in/carolinateixeiracoelho/
 
 <!---
 caroolt/caroolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
