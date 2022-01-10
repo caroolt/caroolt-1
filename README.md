@@ -27,9 +27,8 @@
 </div>
 
 ### 📫 Se você tem interesse em interagir comigo, fique à vontade! 
-# Email: carolinatc1405@gmail.com
-
-# Linkedin: https://www.linkedin.com/in/carolinateixeiracoelho/
+#### Email: carolinatc1405@gmail.com
+#### Linkedin: https://www.linkedin.com/in/carolinateixeiracoelho/
 
 <!---
 caroolt/caroolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
