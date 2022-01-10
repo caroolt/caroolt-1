@@ -1,4 +1,4 @@
-### Olá! eu sou o Matheus Quirino, desenvolvedor fullstack e mobile.
+### Olá! eu sou o Carol Teixeira, desenvolvedora fullstack.
 <div align="center">
   <a href="https://github.com/caroolt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caroolt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -15,8 +15,7 @@
   <img  align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="right" alt="pic" height="155" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/471508412950380564/28ce138334c9c0fa50d4bb7199b8fdeb.webp?width=467&height=467">
 </div>
-  
-##
+
   
 <!--START_SECTION:waka-->
 <div align="center">
@@ -26,3 +25,8 @@
 ![Snake animation](https://github.com/caroolt/caroolt-1/blob/master/dist/github-user-contribution.svg)
 
 </div>
+
+## 📫 Se você tem interesse em interagir comigo, fique à vontade! 
+## Email: carolinatc1405@gmail.com
+
+## Linkedin: https://www.linkedin.com/in/carolinateixeiracoelho/
