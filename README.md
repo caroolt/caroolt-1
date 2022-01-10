@@ -21,7 +21,6 @@
 </div>
 
  ##
-<br/>
 <!--START_SECTION:waka-->
 <div align="center">
 <br/>
