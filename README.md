@@ -1,4 +1,4 @@
-### Olá! eu sou a Carol Teixeira, desenvolvedora fullstack.
+### Eii! Meu nome é Carol Teixeira sou desenvolvedora fullstack.
 
 ##
 
