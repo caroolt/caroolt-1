@@ -1,5 +1,5 @@
-### Eii! Meu nome é Carol Teixeira sou desenvolvedora fullstack.
-#### Heyy! My Name is Carol Teixeira I'm a fullstack developer.
+### Eii! Meu nome é Carolina Teixeira sou desenvolvedora fullstack.
+#### Heyy! My Name is Carolina Teixeira I'm a fullstack developer.
 ##
 
 <div align="center">
