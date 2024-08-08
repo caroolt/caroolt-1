@@ -11,8 +11,8 @@
 What I normally use? :toolbox:
 
 - Front-End with React
-- Back-End with NodeJs
-- Database services with MongoDB
+- Back-End with NodeJs but I'm studying Java
+- Database services with MongoDB and MySQL
 
 <div style="display: inline_block" align="center"><br/>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
