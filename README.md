@@ -10,7 +10,7 @@
 
 What I normally use? :toolbox:
 
-- Front-End with VueJs
+- Front-End with React
 - Back-End with NodeJs
 - Database services with MongoDB
 
